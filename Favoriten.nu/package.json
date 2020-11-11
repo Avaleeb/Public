@@ -1,0 +1,39 @@
+{
+  "name": "socialresturant",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "antd": "^4.0.2",
+    "axios": "^0.19.2",
+    "crypto-js": "^4.0.0",
+    "mongodb": "^3.5.5",
+    "next": "9.3.2",
+    "next-pwa": "^2.3.0",
+    "node-sass": "^4.13.1",
+    "react": "16.13.0",
+    "react-autosuggest": "^9.4.3",
+    "react-dom": "16.13.0",
+    "react-facebook": "^8.1.4",
+    "react-ga": "^2.7.0",
+    "react-google-places-autocomplete": "^1.6.2",
+    "react-loading-skeleton": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.1",
+    "@types/react": "^16.9.23",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.1",
+    "typescript": "^3.8.3"
+  }
+}

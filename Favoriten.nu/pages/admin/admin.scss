@@ -1,0 +1,22 @@
+.data_wrapper{
+  display:flex;
+  margin-top: 10px;
+  width: 100%;
+  height: 50px;
+  padding: 0px;
+  border: solid;
+  border-radius: 1px;
+  border-color: gray;
+  
+  p{
+    width: 20%;
+  }
+  .accept{
+    margin-left: auto;
+    background-color: green;
+  }
+
+  .delete{
+    background-color: red;
+  }
+}
