@@ -2,7 +2,7 @@
 Favoriten.nu is a project I developed with Jens Rathsman and Oscar Rundqvist to help resturants in Stockholm during the initial period crisis surrounding 
 the spread of covid-19. The idea was very simple, if we can get people to buy vouchers for resturants then they can survive through the crisis. 
 
-We roughly three thousand unique visitors on the site over the period of a couple of weeks before shutting it down due people beeing able to visit resturants in Sweden. 
+We had roughly 3000 unique visitors on the site over the period of a couple of weeks before shutting it down due to people beeing able to visit resturants in Sweden. 
 
 ## Technical
 The project is built using Next.js, typescript, mongoDb, sass and Google-apis. 
